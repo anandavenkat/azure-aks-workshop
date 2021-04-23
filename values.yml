@@ -1,4 +1,4 @@
 GitHub:
-  path: <username>/azure-aks-workshop
+  path: anandavenkat/azure-aks-workshop
 DockerBuild:
-  dockerImageName: <jfrog platform url>/workshop-docker/workshop-app
+  dockerImageName: venkatakrish.jfrog.io/workshop-docker/workshop-app
